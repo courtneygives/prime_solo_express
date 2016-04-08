@@ -1,0 +1,23 @@
+{
+  "name": "prime-work",
+  "version": "1.0.0",
+  "description": "Create a basic node application using `npm init`. Create a file containing the JavaScript for running your server called `server.js`. Remember that this is the filename you will pass to `node` to start your server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Courtney Ives",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/courtneygives/prime_solo_express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/courtneygives/prime_solo_express/issues"
+  },
+  "homepage": "https://github.com/courtneygives/prime_solo_express#readme"
+}
